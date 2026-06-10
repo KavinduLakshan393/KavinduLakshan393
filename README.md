@@ -36,12 +36,12 @@ My development style is **design-first, architecture-focused, and Scrum-driven**
 <!-- PROFILE-DATA:START -->
 | Metric | Value |
 |---|---:|
-| Public Repositories | Updating soon |
-| Followers | Updating soon |
-| Following | Updating soon |
-| Total Public Repo Stars | Updating soon |
-| Total Public Repo Forks | Updating soon |
-| Last Auto Update | Workflow not run yet |
+| Public Repositories | 34 |
+| Followers | 1 |
+| Following | 1 |
+| Total Public Repo Stars | 2 |
+| Total Public Repo Forks | 0 |
+| Last Auto Update | 2026-06-10 20:19:43 UTC |
 <!-- PROFILE-DATA:END -->
 
 ---
@@ -177,7 +177,12 @@ A cloud-connected utility app concept using Supabase, Firebase, and GCP-based ar
 ## 🆕 Latest Public Repositories
 
 <!-- LATEST-REPOS:START -->
-- Updating soon after the GitHub Action runs.
+- [**KavinduLakshan393**](https://github.com/KavinduLakshan393/KavinduLakshan393) - No description provided yet.<br />`JavaScript` | ⭐ 0 | 🍴 0
+- [**projects**](https://github.com/KavinduLakshan393/projects) - No description provided yet.<br />`HTML` | ⭐ 0 | 🍴 0
+- [**pharmacy-exam-compendium**](https://github.com/KavinduLakshan393/pharmacy-exam-compendium) - No description provided yet.<br />`Mixed` | ⭐ 0 | 🍴 0
+- [**dev-fundamentals-curriculum**](https://github.com/KavinduLakshan393/dev-fundamentals-curriculum) - A 15-sprint full-stack developer curriculum covering VS Code, Bash, Git, GitHub, PostgreSQL, and SQL. Designed for beginners and career switchers, it provides a structured path from development fundamentals and command-line skills to version control, database design, normalization, security, and performance optimization.<br />`Mixed` | ⭐ 0 | 🍴 0
+- [**Full-Backend_beginner_curriculum**](https://github.com/KavinduLakshan393/Full-Backend_beginner_curriculum) - Backend Development Learning Path | Node.js + Express + REST APIs | 13 comprehensive modules from foundations to advanced topics including security and authentication.<br />`Mixed` | ⭐ 0 | 🍴 0
+- [**Full-Object-Oriented-Programming-Curriculum**](https://github.com/KavinduLakshan393/Full-Object-Oriented-Programming-Curriculum) - A complete module-by-module OOP curriculum from foundations to advanced software architecture. Covers core pillars, object relationships, SOLID principles, UML, testing, refactoring, and a final mini-project<br />`Mixed` | ⭐ 0 | 🍴 0
 <!-- LATEST-REPOS:END -->
 
 ---
