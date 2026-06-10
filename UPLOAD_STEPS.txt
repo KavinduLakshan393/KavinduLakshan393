@@ -1,0 +1,28 @@
+UPLOAD STEPS
+
+1. Open your GitHub profile repository:
+   KavinduLakshan393/KavinduLakshan393
+
+2. Upload/replace all files and folders from this package:
+   README.md
+   README.template.md
+   assets/
+   scripts/
+   .github/workflows/
+
+3. After upload, go to:
+   GitHub repository -> Actions
+
+4. Run manually:
+   Update profile README
+   Generate contribution snake
+
+5. If README update workflow fails because of permission:
+   Repository Settings -> Actions -> General -> Workflow permissions -> Read and write permissions -> Save
+
+6. Replace placeholder files later:
+   assets/flux-dashboard.png
+   assets/flux-pos-demo.gif
+   assets/smart-auto-hub.png
+   assets/medireminder-app.png
+   assets/Kavindu_Lakshan_CV.pdf
