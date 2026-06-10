@@ -1,81 +1,230 @@
-# Hi there, I'm K. Kavindu Lakshan 👋
+<div align="center">
 
-### Full-Stack Web & Mobile Developer | Aspiring Game Developer | Computer Science Student
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:4f46e5,100:06b6d4&text=K.%20Kavindu%20Lakshan&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%7C%20CS%20Undergraduate&descAlignY=58&descSize=17" />
 
-I am a Level 3 Computer Science undergraduate at the University of Ruhuna. I specialize in building robust, offline-first web systems, cross-platform mobile apps, and exploring interactive experiences in game development. I heavily utilize Scrum methodology to keep my solo and team projects organized and architectural patterns efficient.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+offline-first+commercial+systems;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+Flutter;Exploring+RAG+pipelines+and+game+development;Design-first+developer+with+Scrum-driven+workflow" alt="Typing SVG" />
+</a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=KavinduLakshan393&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/KavinduLakshan393?label=FOLLOWERS&style=for-the-badge&color=4f46e5&labelColor=0f172a" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/KavinduLakshan393?label=TOTAL%20STARS&style=for-the-badge&color=22c55e&labelColor=0f172a" alt="GitHub stars" />
+
+</div>
 
 ---
 
-## 💫 About Me
+## 👋 About Me
 
-* 🔭 **I’m currently working on:** **Flux**, a commercial-grade, offline-first Retail POS & Inventory system built with Next.js, Node.js, and PostgreSQL, alongside a split-screen **Dual-Mode Cyberpunk Portfolio**.
-* 🤝 **I’m looking to collaborate on:** Open-source full-stack web applications and indie game development initiatives.
-* 🌱 **I’m currently learning:** Advanced **Retrieval-Augmented Generation (RAG)** pipelines for AI chatbot implementations and mastering modern game engines.
-* ⚡ **Fun fact:** I love creating high-fidelity interactive wireframes and UI configurations using Google Stitch, MockFlow, and Miro before writing a single line of code!
+I am **K. Kavindu Lakshan**, a **Level 3 Computer Science undergraduate at the University of Ruhuna**, focused on building reliable, scalable, and user-friendly digital products.
+
+I work across **full-stack web development**, **cross-platform mobile applications**, **offline-first business systems**, and I am actively exploring **game development** and **AI-powered RAG chatbot architectures**.
+
+My development style is **design-first, architecture-focused, and Scrum-driven**, allowing me to plan clean workflows before writing production code.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Current Focus
 
-### 🚀 Programming Languages & Frontend Development
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-### ⚙️ Backend Development & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+### 🛒 Flux POS & Inventory System
 
-### 📱 Mobile App Development & AI/ML
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![RAG Architecture](https://img.shields.io/badge/AI%2FML-RAG%20Architecture-blueviolet?style=for-the-badge)
+A commercial-grade, offline-first **Retail POS & Inventory System** built with:
 
-### 🧰 Software, Design & Project Management
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Scrum](https://img.shields.io/badge/Methodology-Scrum-orange?style=for-the-badge)
-![Google Stitch](https://img.shields.io/badge/Design-Google%20Stitch-blue?style=for-the-badge)
-![Miro](https://img.shields.io/badge/Miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=white)
+- Next.js
+- Node.js
+- PostgreSQL
+- Branch-isolated architecture
+- Back-office reporting accuracy
+- Fast front-counter checkout workflow
+
+</td>
+<td width="50%">
+
+### 🧠 Learning & Research
+
+Currently improving my skills in:
+
+- Advanced RAG pipelines
+- AI chatbot implementation
+- Modern game engines
+- Interactive UI prototyping
+- Scalable backend architecture
+- Offline-first synchronization patterns
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+
+<br />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase" />
+
+<br />
+
+### Mobile, Tools & Design
+
+<img src="https://skillicons.dev/icons?i=flutter,git,github,figma,miro,vscode" />
+
+<br />
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 [Flux — POS and Inventory System](https://github.com/KavinduLakshan393/flux---POS-and-Inventory-System)
-A commercial-grade Retail POS & Inventory system built with **Next.js, Node.js, and PostgreSQL**. Engineered specifically for high-volume environments, it features robust branch isolation and bridges fast front-counter checkouts with complete back-office reporting accuracy.
+<table>
+<tr>
+<td width="33%">
 
-### 🚗 **Smart Auto Hub**
-A complete vehicle dealership platform containing a desktop-responsive web application paired with a native Android application built in **Flutter**, specifically focusing on streamlined vehicle consultation workflows.
+### 🛒 Flux
 
-### 📅 **MediReminder App**
-A multi-platform utility tracking app leveraging cross-platform cloud infrastructures utilizing **Supabase, Firebase, and Google Cloud Platform (GCP)** for high reliability.
+**Retail POS & Inventory System**
+
+A commercial-grade system designed for high-volume retail environments with strong branch isolation, accurate inventory handling, and reliable back-office reporting.
+
+**Stack:** Next.js, Node.js, PostgreSQL
+
+<a href="https://github.com/KavinduLakshan393/flux---POS-and-Inventory-System">
+  <img src="https://img.shields.io/badge/View%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="33%">
+
+### 🚗 Smart Auto Hub
+
+**Vehicle Dealership Platform**
+
+A complete vehicle dealership solution with a responsive web interface and a Flutter-based Android application for smooth consultation workflows.
+
+**Stack:** Web App, Flutter, Mobile App
+
+<img src="https://img.shields.io/badge/Project-Private%20or%20Coming%20Soon-4f46e5?style=for-the-badge" />
+
+</td>
+<td width="33%">
+
+### 📅 MediReminder
+
+**Multi-platform Reminder App**
+
+A cloud-connected utility app using Supabase, Firebase, and GCP concepts to support reliable multi-platform medicine reminder workflows.
+
+**Stack:** Flutter, Supabase, Firebase, GCP
+
+<img src="https://img.shields.io/badge/Project-Private%20or%20Coming%20Soon-06b6d4?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Metrics & Insights
+## 📊 Live GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavinduLakshan393&show_icons=true&theme=tokyonight&count_private=true" alt="Kavindu's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshan393&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavinduLakshan393&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KavinduLakshan393&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=38bdf8&text_color=e5e7eb&count_private=true" alt="GitHub Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshan393&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e5e7eb&langs_count=8" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=KavinduLakshan393&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## 📬 Connect with Me
+## 🏆 GitHub Achievements
 
-* **Email:** [Your Email Address]
-* **LinkedIn:** [Your LinkedIn Profile]
-* **Portfolio:** *Cyberpunk Dual-Mode Portfolio Link Coming Soon!*
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KavinduLakshan393&color=blueviolet&style=flat-square" alt="Profile Visitors" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=KavinduLakshan393&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KavinduLakshan393&bg_color=0f172a&color=e5e7eb&line=22d3ee&point=4f46e5&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🧩 Development Workflow
+
+```mermaid
+flowchart LR
+    A[Idea] --> B[Wireframe]
+    B --> C[Architecture Planning]
+    C --> D[Sprint Backlog]
+    D --> E[Development]
+    E --> F[Testing]
+    F --> G[Deployment]
+    G --> H[Iteration]
+```
+
+---
+
+## 🤝 Collaboration Interests
+
+I am open to collaborating on:
+
+- Full-stack web applications
+- Offline-first business platforms
+- Open-source tools
+- Indie game development
+- AI chatbot and RAG-based systems
+- Modern UI/UX prototype-driven projects
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://github.com/KavinduLakshan393">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:4f46e5,100:0f172a&section=footer" />
+
+</div>
