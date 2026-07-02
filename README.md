@@ -38,10 +38,10 @@ My development style is **design-first, architecture-focused, and Scrum-driven**
 |---|---:|
 | Public Repositories | 35 |
 | Followers | 1 |
-| Following | 1 |
+| Following | 2 |
 | Total Public Repo Stars | 2 |
 | Total Public Repo Forks | 0 |
-| Last Auto Update | 2026-07-01 04:19:17 UTC |
+| Last Auto Update | 2026-07-02 03:58:54 UTC |
 <!-- PROFILE-DATA:END -->
 
 ---
@@ -177,12 +177,12 @@ A cloud-connected utility app concept using Supabase, Firebase, and GCP-based ar
 ## 🆕 Latest Public Repositories
 
 <!-- LATEST-REPOS:START -->
+- [**Full-React-Begineer-curriculum**](https://github.com/KavinduLakshan393/Full-React-Begineer-curriculum) - A comprehensive React curriculum covering fundamentals, hooks, routing, state management, performance optimization, and testing. Organized in 16 progressive sprints with detailed structured notes.<br />`Mixed` | ⭐ 0 | 🍴 0
 - [**KavinduLakshan393**](https://github.com/KavinduLakshan393/KavinduLakshan393) - No description provided yet.<br />`JavaScript` | ⭐ 0 | 🍴 0
 - [**Full-JavaScript-Beginner-Curriculum**](https://github.com/KavinduLakshan393/Full-JavaScript-Beginner-Curriculum) - Beginner-friendly JavaScript curriculum with 27 structured sprint notes covering core JavaScript, DOM, accessibility, forms, APIs, debugging, regex, data structures, dynamic programming, and asynchronous programming.<br />`Mixed` | ⭐ 0 | 🍴 0
 - [**projects**](https://github.com/KavinduLakshan393/projects) - No description provided yet.<br />`HTML` | ⭐ 0 | 🍴 0
 - [**internSift**](https://github.com/KavinduLakshan393/internSift) - No description provided yet.<br />`TypeScript` | ⭐ 0 | 🍴 0
 - [**pharmacy-exam-compendium**](https://github.com/KavinduLakshan393/pharmacy-exam-compendium) - No description provided yet.<br />`Mixed` | ⭐ 0 | 🍴 0
-- [**dev-fundamentals-curriculum**](https://github.com/KavinduLakshan393/dev-fundamentals-curriculum) - A 15-sprint full-stack developer curriculum covering VS Code, Bash, Git, GitHub, PostgreSQL, and SQL. Designed for beginners and career switchers, it provides a structured path from development fundamentals and command-line skills to version control, database design, normalization, security, and performance optimization.<br />`Mixed` | ⭐ 0 | 🍴 0
 <!-- LATEST-REPOS:END -->
 
 ---
