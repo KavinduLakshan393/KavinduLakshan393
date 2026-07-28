@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="K. Kavindu Lakshan animated cyberpunk GitHub profile banner" width="100%" />
+<img src="./assets/header.svg" alt="K. Kavindu Lakshan profile banner" width="100%" />
 
 <br />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+offline-first+commercial+systems;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+Flutter;Exploring+RAG+pipelines+and+game+development;Design-first+developer+with+Scrum-driven+workflow"
+    src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=23&duration=2600&pause=900&color=D0BCFF&center=true&vCenter=true&width=900&lines=Building+offline-first+commercial+systems;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+Flutter;Exploring+RAG+pipelines+and+game+development;Design-first+developer+with+Scrum-driven+workflow"
     alt="Typing animation"
   />
 </a>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=KavinduLakshan393&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/KavinduLakshan393?label=FOLLOWERS&style=for-the-badge&color=4f46e5&labelColor=0f172a" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/FOCUS-OFFLINE--FIRST%20SYSTEMS-22c55e?style=for-the-badge&labelColor=0f172a" alt="Focus badge" />
+<!-- Material 3 Tonal Badges -->
+<img src="https://komarev.com/ghpvc/?username=KavinduLakshan393&label=PROFILE%20VIEWS&color=D0BCFF&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/KavinduLakshan393?label=FOLLOWERS&style=for-the-badge&color=A8C7FA&labelColor=1C1B1F" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/FOCUS-OFFLINE--FIRST%20SYSTEMS-A2D0C8?style=for-the-badge&labelColor=1C1B1F" alt="Focus badge" />
 
 </div>
 
@@ -90,19 +91,19 @@ Currently improving my skills in:
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend skills" />
 
 <br />
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase" alt="Backend skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase&theme=dark" alt="Backend skills" />
 
 <br />
 
 ### Mobile, Tools & Design
 
-<img src="https://skillicons.dev/icons?i=flutter,git,github,figma,miro,vscode" alt="Tools and mobile skills" />
+<img src="https://skillicons.dev/icons?i=flutter,git,github,figma,miro,vscode&theme=dark" alt="Tools and mobile skills" />
 
 </div>
 
@@ -125,7 +126,7 @@ A commercial-grade system designed for high-volume retail environments with stro
 **Stack:** Next.js, Node.js, PostgreSQL
 
 <a href="https://github.com/KavinduLakshan393/flux---POS-and-Inventory-System">
-  <img src="https://img.shields.io/badge/View%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View Flux repository" />
+  <img src="https://img.shields.io/badge/View%20Repository-D0BCFF?style=for-the-badge&logo=github&logoColor=1C1B1F&labelColor=2B2930" alt="View Flux repository" />
 </a>
 
 </td>
@@ -141,7 +142,7 @@ A complete vehicle dealership platform containing a desktop-responsive web appli
 
 **Stack:** Web App, Flutter, Mobile App
 
-<img src="https://img.shields.io/badge/Project-Private%20or%20Coming%20Soon-4f46e5?style=for-the-badge" alt="Private or coming soon" />
+<img src="https://img.shields.io/badge/Status-Private--or--In--Development-A8C7FA?style=for-the-badge&labelColor=2B2930" alt="Private or coming soon" />
 
 </td>
 <td width="33%" valign="top">
@@ -156,7 +157,7 @@ A cloud-connected utility app concept using Supabase, Firebase, and GCP-based ar
 
 **Stack:** Flutter, Supabase, Firebase, GCP
 
-<img src="https://img.shields.io/badge/Project-Private%20or%20Coming%20Soon-06b6d4?style=for-the-badge" alt="Private or coming soon" />
+<img src="https://img.shields.io/badge/Status-Private--or--In--Development-A2D0C8?style=for-the-badge&labelColor=2B2930" alt="Private or coming soon" />
 
 </td>
 </tr>
@@ -193,20 +194,21 @@ A cloud-connected utility app concept using Supabase, Firebase, and GCP-based ar
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=KavinduLakshan393&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=38bdf8&text_color=e5e7eb"
+  src="https://github-readme-stats.vercel.app/api?username=KavinduLakshan393&show_icons=true&bg_color=1c1b1f&title_color=d0bcff&icon_color=a8c7fa&text_color=e6e1e5&border_color=49454f&border_radius=12"
   alt="Kavindu's GitHub stats"
 />
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshan393&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e5e7eb&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshan393&layout=compact&bg_color=1c1b1f&title_color=d0bcff&text_color=e6e1e5&border_color=49454f&border_radius=12&langs_count=8"
   alt="Kavindu's top languages"
 />
 
 <br />
+<br />
 
 <img
-  src="https://streak-stats.demolab.com?user=KavinduLakshan393&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee"
+  src="https://streak-stats.demolab.com?user=KavinduLakshan393&background=1c1b1f&ring=d0bcff&fire=a8c7fa&currStreakLabel=d0bcff&sideLabels=e6e1e5&dates=e6e1e5&border=49454f&border_radius=12"
   alt="GitHub streak"
 />
 
@@ -219,7 +221,7 @@ A cloud-connected utility app concept using Supabase, Firebase, and GCP-based ar
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=KavinduLakshan393&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
+  src="https://github-profile-trophy.vercel.app/?username=KavinduLakshan393&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
   alt="GitHub trophies"
 />
 
@@ -232,7 +234,7 @@ A cloud-connected utility app concept using Supabase, Firebase, and GCP-based ar
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=KavinduLakshan393&bg_color=0f172a&color=e5e7eb&line=22d3ee&point=4f46e5&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=KavinduLakshan393&bg_color=1c1b1f&color=e6e1e5&line=d0bcff&point=a8c7fa&border=49454f&radius=12"
   alt="GitHub activity graph"
 />
 
@@ -257,6 +259,7 @@ A cloud-connected utility app concept using Supabase, Firebase, and GCP-based ar
 ## 🧩 Development Workflow
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#2B2930', 'primaryTextColor': '#E6E1E5', 'primaryBorderColor': '#D0BCFF', 'lineColor': '#D0BCFF', 'tertiaryColor': '#1C1B1F'}}}%%
 flowchart LR
     A[Idea] --> B[Wireframe]
     B --> C[Architecture Planning]
@@ -265,59 +268,3 @@ flowchart LR
     E --> F[Testing]
     F --> G[Deployment]
     G --> H[Iteration]
-```
-
----
-
-## 🤝 Collaboration Interests
-
-I am open to collaborating on:
-
-- Full-stack web applications
-- Offline-first business platforms
-- Open-source tools
-- Indie game development
-- AI chatbot and RAG-based systems
-- Modern UI/UX prototype-driven projects
-
----
-
-## 📄 Resume
-
-<div align="center">
-
-<a href="./assets/Kavindu_Lakshan_CV.pdf">
-  <img src="https://img.shields.io/badge/Download%20CV-0f172a?style=for-the-badge&logo=readme&logoColor=white" alt="Download CV" />
-</a>
-
-</div>
-
-> Replace the placeholder CV file in `assets/Kavindu_Lakshan_CV.pdf` with your real updated CV before sharing professionally.
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:kavinduuni@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/your-linkedin-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/KavinduLakshan393">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Building practical software with clean architecture, strong UI, and reliable user experience.
-
-</div>
