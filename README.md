@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Clean & Professional Material Design Banner -->
 <img src="./assets/header.svg" alt="K. Kavindu Lakshan profile banner" width="100%" />
 
 <br />
