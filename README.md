@@ -36,12 +36,12 @@ My development style is **design-first, architecture-focused, and Scrum-driven**
 <!-- PROFILE-DATA:START -->
 | Metric | Value |
 |---|---:|
-| Public Repositories | 38 |
+| Public Repositories | 39 |
 | Followers | 2 |
 | Following | 3 |
 | Total Public Repo Stars | 2 |
 | Total Public Repo Forks | 0 |
-| Last Auto Update | 2026-08-09 02:02:56 UTC |
+| Last Auto Update | 2026-08-10 02:07:19 UTC |
 <!-- PROFILE-DATA:END -->
 
 ---
@@ -177,12 +177,12 @@ A cloud-connected utility app concept using Supabase, Firebase, and GCP-based ar
 ## 🆕 Latest Public Repositories
 
 <!-- LATEST-REPOS:START -->
+- [**docket**](https://github.com/KavinduLakshan393/docket) - No description provided yet.<br />`CSS` | ⭐ 0 | 🍴 0
 - [**KavinduLakshan393**](https://github.com/KavinduLakshan393/KavinduLakshan393) - No description provided yet.<br />`JavaScript` | ⭐ 0 | 🍴 0
 - [**villa-cinnamoon-castle-site**](https://github.com/KavinduLakshan393/villa-cinnamoon-castle-site) - No description provided yet.<br />`TypeScript` | ⭐ 0 | 🍴 0
 - [**skills-copilot-codespaces-vscode**](https://github.com/KavinduLakshan393/skills-copilot-codespaces-vscode) - My clone repository<br />`Mixed` | ⭐ 0 | 🍴 0
 - [**pomodoro-task-tracker**](https://github.com/KavinduLakshan393/pomodoro-task-tracker) - No description provided yet.<br />`PowerShell` | ⭐ 0 | 🍴 0
 - [**Full-JavaScript-Beginner-Curriculum**](https://github.com/KavinduLakshan393/Full-JavaScript-Beginner-Curriculum) - Beginner-friendly JavaScript curriculum with 27 structured sprint notes covering core JavaScript, DOM, accessibility, forms, APIs, debugging, regex, data structures, dynamic programming, and asynchronous programming.<br />`Mixed` | ⭐ 0 | 🍴 0
-- [**Full-React-Begineer-curriculum**](https://github.com/KavinduLakshan393/Full-React-Begineer-curriculum) - A comprehensive React curriculum covering fundamentals, hooks, routing, state management, performance optimization, and testing. Organized in 16 progressive sprints with detailed structured notes.<br />`Mixed` | ⭐ 0 | 🍴 0
 <!-- LATEST-REPOS:END -->
 
 ---
