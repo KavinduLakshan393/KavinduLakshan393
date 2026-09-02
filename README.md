@@ -292,7 +292,7 @@ I am open to collaborating on:
 
 </div>
 
-> Replace the placeholder CV file in `assets/Kavindu_Lakshan_CV.pdf` with your real updated CV before sharing professionally.
+> Still pending
 
 ---
 
