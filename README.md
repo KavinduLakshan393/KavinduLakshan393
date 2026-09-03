@@ -41,7 +41,7 @@ My development style is **design-first, architecture-focused, and Scrum-driven**
 | Following | 4 |
 | Total Public Repo Stars | 2 |
 | Total Public Repo Forks | 0 |
-| Last Auto Update | 2026-09-02 03:48:41 UTC |
+| Last Auto Update | 2026-09-03 03:48:28 UTC |
 <!-- PROFILE-DATA:END -->
 
 ---
@@ -177,8 +177,8 @@ A cloud-connected utility app concept using Supabase, Firebase, and GCP-based ar
 ## 🆕 Latest Public Repositories
 
 <!-- LATEST-REPOS:START -->
-- [**aurora-audio-lab**](https://github.com/KavinduLakshan393/aurora-audio-lab) - No description provided yet.<br />`JavaScript` | ⭐ 0 | 🍴 0
 - [**KavinduLakshan393**](https://github.com/KavinduLakshan393/KavinduLakshan393) - No description provided yet.<br />`JavaScript` | ⭐ 0 | 🍴 0
+- [**aurora-audio-lab**](https://github.com/KavinduLakshan393/aurora-audio-lab) - No description provided yet.<br />`JavaScript` | ⭐ 0 | 🍴 0
 - [**zenith-workspace**](https://github.com/KavinduLakshan393/zenith-workspace) - No description provided yet.<br />`JavaScript` | ⭐ 0 | 🍴 0
 - [**devpulse-studio**](https://github.com/KavinduLakshan393/devpulse-studio) - No description provided yet.<br />`JavaScript` | ⭐ 0 | 🍴 0
 - [**OmiCardGame**](https://github.com/KavinduLakshan393/OmiCardGame) - No description provided yet.<br />`JavaScript` | ⭐ 0 | 🍴 0
@@ -292,7 +292,7 @@ I am open to collaborating on:
 
 </div>
 
-> Still pending
+> Replace the placeholder CV file in `assets/Kavindu_Lakshan_CV.pdf` with your real updated CV before sharing professionally.
 
 ---
 
