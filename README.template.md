@@ -15,7 +15,7 @@
 I am a software engineer focused on building resilient, scalable digital systems and developer-centric tools. My background combines rigorous computer science fundamentals from the University of Ruhuna with hands-on experience architecting full-stack web applications, offline-first business systems, and interactive client experiences.
 
 * **Engineering Philosophy:** Design-first planning, strict type-safety, and domain-driven architecture.
-* **Core Domains:** Offline-first synchronization, high-throughput retail workflows, distributed state, and developer tooling.
+* **Core Domains:** Full-stack systems architecture, enterprise candidate filtering & CV pipelines, distributed state, and developer tooling.
 * **Currently Exploring:** Autonomous AI agent architectures, vector retrieval pipelines (RAG), and deterministic game loops.
 
 ---
@@ -37,21 +37,14 @@ I am a software engineer focused on building resilient, scalable digital systems
 
 ## 🏗️ Selected Work & Systems
 
-### [Flux — Commercial Offline-First Retail POS & Inventory System](https://github.com/KavinduLakshan393)
-*A commercial-grade point-of-sale and inventory platform built for demanding high-volume retail environments.*
-- **Offline-First Resilience:** Zero-latency front-counter checkout with local caching and fault-tolerant background synchronization.
-- **Branch-Isolated Architecture:** Multi-location data isolation preventing cross-branch stock contention.
-- **Data Integrity:** Strict ledger validation, batch-level inventory tracking, and reconciliation reports backed by PostgreSQL.
-- **Tech Stack:** `Next.js` · `Node.js` · `TypeScript` · `PostgreSQL` · `Tailwind CSS`
-
----
-
-### [UOR Internship Management System (IMS)](https://github.com/UOR-Internship-Management-System/frontend)
-*Enterprise placement and recruitment portal serving university faculty, students, and corporate partners.*
-- **Live CV Engine:** Dynamic CV builder supporting custom schema versioning, draft staging, and automated export.
-- **Academic Ledger:** High-throughput CSV validation pipeline handling bulk student result uploads with atomic database commits.
-- **Candidate Filtering:** Interactive multi-criteria querying with instant shortlist compilation and secure data export.
-- **Tech Stack:** `React 19` · `TypeScript` · `Vite` · `Material Design 3` · `Playwright E2E` · `TanStack Query`
+### [CV Management & Candidate Filtering Platform](https://github.com/UOR-Internship-Management-System/frontend)
+*Enterprise placement and recruitment portal coordinating student CV generation, academic result verification, and recruiter candidate filtering.*
+- **Interactive Candidate Filtering:** Multi-facet candidate query dashboard enabling recruiters to filter students by GPA, skills, department, and verification status with instant shortlist curation and CSV/data export.
+- **Dynamic CV Builder:** Live-preview CV generation engine supporting schema versioning (`If-Match` optimistic concurrency), draft persistence, and clean PDF export workflows.
+- **Academic Ledger Staging:** High-volume CSV validation pipeline handling bulk student academic results with two-phase staging, invalid-row reporting, and atomic database commits.
+- **Material Design 3 Expressive UI:** Built with Google's M3 Expressive design tokens, adaptive elevation, responsive layouts, and full WCAG accessibility compliance.
+- **Production Verification:** Multi-layered test suite featuring 40+ unit/integration tests and end-to-end Playwright suites validating live auth, ledger uploads, and shortlist workflows.
+- **Tech Stack:** `React 19` · `TypeScript` · `Vite` · `Material Design 3` · `TanStack Query` · `Playwright E2E` · `Vitest` · `MSW`
 
 ---
 
@@ -96,7 +89,7 @@ I am a software engineer focused on building resilient, scalable digital systems
 
 ## 🔬 Architectural Competencies
 
-- **Resilient Offline Workflows:** Client-side optimistic updates, durable sync queues, and conflict-resolution strategies.
+- **Resilient Workflows:** Client-side optimistic updates, durable sync queues, and concurrency conflict management.
 - **Clean Architecture & Scalability:** Strict separation of UI and business concerns via repository patterns, service layers, and custom hooks.
 - **Production Verification:** Multi-tier testing strategies spanning Vitest unit/component suites and full Playwright end-to-end integration flows.
 
